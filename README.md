@@ -5,8 +5,8 @@
 <p align="center"><strong>HTTPX</strong> <em>- A next-generation HTTP client for Python.</em></p>
 
 <p align="center">
-<a href="https://github.com/encode/httpx/actions">
-    <img src="https://github.com/encode/httpx/workflows/Test%20Suite/badge.svg" alt="Test Suite">
+<a href="https://github.com/Unity-Billal-mesloub/httpx/actions">
+    <img src="https://github.com/Unity-Billal-mesloub/httpx/workflows/Test%20Suite/badge.svg" alt="Test Suite">
 </a>
 <a href="https://pypi.org/project/httpx/">
     <img src="https://badge.fury.io/py/httpx.svg" alt="Package version">
@@ -144,4 +144,4 @@ inspiration around the lower-level networking details.
 
 ---
 
-<p align="center"><i>HTTPX is <a href="https://github.com/encode/httpx/blob/master/LICENSE.md">BSD licensed</a> code.<br/>Designed & crafted with care.</i><br/>&mdash; 🦋 &mdash;</p>
+<p align="center"><i>HTTPX is <a href="https://github.com/Unity-Billal-mesloub/httpx/blob/master/LICENSE.md">BSD licensed</a> code.<br/>Designed & crafted with care.</i><br/>&mdash; 🦋 &mdash;</p>
